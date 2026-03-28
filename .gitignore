@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+.env
+=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -65,6 +68,8 @@ db.sqlite3-journal
 instance/
 .webassets-cache
 
+*.pyc
+.idea/
 # Scrapy stuff:
 .scrapy
 
@@ -135,7 +140,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .envrc
 .venv
 env/
@@ -160,8 +164,7 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
-.pyre/
-
+.pyre/s
 # pytype static type analyzer
 .pytype/
 
@@ -205,3 +208,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+>>>>>>> 95b0e3a23ed2f7c0edf86058f712970ba2fc065d
